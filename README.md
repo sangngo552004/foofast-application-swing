@@ -129,21 +129,7 @@ foofast-application-swing/
 └── LICENSE                        # License file
 ```
 
-## Testing
-
-- **Manual Testing**: Run the app and perform CRUD operations; verify data in MySQL.
-- **Unit Tests**: Add JUnit tests in `test/` folder for models and DAOs (future enhancement).
-- Run tests: Use IDE or `javac` with JUnit JAR.
-
-
-## Future Enhancements
-
-- Advanced reporting and export to CSV/PDF.
-- User authentication and multi-user support.
-- Migration to JavaFX for modern UI.
-- Integration with REST APIs for web connectivity.
-- Automated unit/integration tests with JUnit.
-
----
+## Conclusion
+If you want to understand more about project, please click at report for detail of project.
 
 *Built with ❤️ for learning Java OOP and Swing. Star the repo if it helps you!*
